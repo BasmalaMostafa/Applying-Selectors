@@ -1,0 +1,27 @@
+p{
+    color:red;
+}
+
+.myDiv>.mainClass{
+    color: blueviolet;
+}
+
+div p{
+    color:blue;
+}
+
+.myClass[type="text"]{
+    width:300px;
+}
+
+div ~ span{
+    color: brown;
+}
+
+.myclass p{
+    color: cornflowerblue;
+}
+
+#myDiv{
+    color:chartreuse;
+}
